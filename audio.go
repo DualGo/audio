@@ -6,7 +6,7 @@ as an external dependency. You can get this on Ubuntu using:
     sudo apt-get install libopenal-dev
 Web support via Gopherjs is planned.
 */
-package audio //import "engo.io/audio"
+package audio 
 
 import (
 	"io"
